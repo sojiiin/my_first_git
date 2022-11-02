@@ -1,0 +1,17 @@
+src/test/resources/log4j.xml
+target/classes/log4j.xml
+target/classes/co/kr/gudi/HomeController.class
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/co.kr/gudi/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/co.kr/gudi/pom.xml
+target/test-classes/log4j.xml
+.settings/org.springframework.ide.eclipse.beans.core.prefs
+.springBeans
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.validation.prefs
+.settings/org.springframework.ide.eclipse.core.prefs
+.classpath
+.project
